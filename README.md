@@ -1,8 +1,5 @@
 # Assignment 4
 
-### Weight: 15% of your final mark.
-
-This Assignment will be due at 11:55PM Edmonton Time on the final day of the semester.
 
 ---
 
